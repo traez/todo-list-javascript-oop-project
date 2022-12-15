@@ -63,4 +63,6 @@ Stackoverflow, MDN Web Docs, w3schools, YouTube, Google
 
 ## Acknowledgments
 
-End of the year party people world over.
+End of the year party people world over.  
+https://www.youtube.com/watch?v=WgFkdGqC6ng  
+https://github.com/DigitalGenius-ui/todo-YT  

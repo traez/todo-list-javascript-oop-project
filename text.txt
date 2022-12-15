@@ -1,1 +1,11 @@
-COMPOUND INTEREST
+https://medium.com/@jesussantizo120/next-js-project-flash-cards-da08745512d8 project READMe
+https://github.com/strawhatcoder/flash-cards Store
+
+constructor functions prototypes class oop javascript project
+site:youtube.com simple javascript oop project prototypes
+site:youtube.com simple javascript oop project
+build javascript object oriented programming project prototype
+
+Todo list project using Object-Oriented Programming (OOP) in JavaScript for beginners 2022
+https://www.youtube.com/watch?v=WgFkdGqC6ng
+https://github.com/DigitalGenius-ui/todo-YT

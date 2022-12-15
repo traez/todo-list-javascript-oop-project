@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  utline: 1px solid black;
+}
+html{
+  display: flex;
+  flex-flow: column;
+  justify-content: center; 
+  align-items: center;
+  width: 100%;
+  height:auto;
+  overflow: scroll;
+  font-family: 'Trebuchet MS';
+  background-color: hsl(227, 100%, 79%);
+  }
+body{
+  width: 100%;
+  height:auto;
+}
+main{
+  width: 100%;
+  height:auto;
+  padding: 1rem;
+  gap:1rem;
+  display:grid;
+  grid-template: 2fr 3fr 10fr/auto;
+  grid-template-areas:
+  "top"
+  "mid"
+  "last";
+    }
+h1{
+  grid-area: top;
+  text-align: center;
+}
+fieldset{
+  grid-area: mid;
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+input{
+  width:40%;
+  height: 2rem;
+}
+button{
+  width:10%;
+  height: 2rem;
+}
+section{
+  grid-area: last;
+  width: 100%;
+  height:auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap:0.2rem;
+}
+.todo{
+  cursor: pointer;
+  width:50%;
+  background-color: hsl(228, 13%, 92%);
+}
+.remove{
+  float:right;
+}

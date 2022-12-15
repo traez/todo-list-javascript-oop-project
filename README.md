@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/traez/goated-oop-project-with-javascript](https://github.com/traez/goated-oop-project-with-javascript)
-- Live Site URL: [https://traez.github.io/goated-oop-project-with-javascript/](https://traez.github.io/goated-oop-project-with-javascript/)
+- Solution URL: [https://github.com/traez/todo-list-javascript-oop-project](https://github.com/traez/todo-list-javascript-oop-project)
+- Live Site URL: [https://traez.github.io/todo-list-javascript-oop-project/](https://traez.github.io/todo-list-javascript-oop-project/)
 
 ## My process
 
